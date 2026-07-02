@@ -1,0 +1,31 @@
+{
+  "name": "firsy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "blast.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/firsteins/Firsy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/firsteins/Firsy/issues"
+  },
+  "homepage": "https://github.com/firsteins/Firsy#readme",
+  "dependencies": {
+    "cluster": "^0.7.7",
+    "colors": "^1.4.0",
+    "crypto": "^1.0.1",
+    "fs": "^0.0.1-security",
+    "http2": "^3.3.6",
+    "net": "^1.0.2",
+    "tls": "^0.0.1",
+    "url": "^0.11.4"
+  }
+}
